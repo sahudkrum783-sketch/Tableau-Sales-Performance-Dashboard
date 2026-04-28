@@ -1,4 +1,3 @@
-# Tableau-Sales-Performance-Dashboard
 # 📊 Sales Performance Dashboard | Tableau Project
 
 ## 🔹 Project Overview
@@ -68,7 +67,6 @@ Shows the percentage share of each region in overall company sales.
 ---
 
 ## 🔹 Dashboard Preview
-(Add your dashboard screenshot here)
 
 Example:
 ![Dashboard Preview](https://github.com/sahudkrum783-sketch/Tableau-Sales-Performance-Dashboard/blob/main/Tableau%20Dashboard%201%20Snapshot.png)
@@ -90,7 +88,7 @@ Sample Superstore Sales Dataset containing:
 ## 🔹 Tableau File
 You can download the Tableau workbook file from this repository.
 
-(Optional: Add Tableau Public Link here if published)
+(https://public.tableau.com/views/TableauDashboard1_17772855955330/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
