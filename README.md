@@ -71,7 +71,7 @@ Shows the percentage share of each region in overall company sales.
 (Add your dashboard screenshot here)
 
 Example:
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](https://github.com/sahudkrum783-sketch/Tableau-Sales-Performance-Dashboard/blob/main/Tableau%20Dashboard%201%20Snapshot.png)
 
 ---
 
