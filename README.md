@@ -88,7 +88,7 @@ Sample Superstore Sales Dataset containing:
 ## 🔹 Tableau File
 You can download the Tableau workbook file from this repository.
 
-(https://public.tableau.com/views/TableauDashboard1_17772855955330/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+https://public.tableau.com/views/TableauDashboard1_17772855955330/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ---
 
